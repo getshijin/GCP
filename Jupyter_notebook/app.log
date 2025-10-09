@@ -1,0 +1,24 @@
+2025-10-09 14:17:14,021 -root- DEBUG - this is a debug message
+2025-10-09 14:17:14,021 -root- ERROR - this is a debug message
+2025-10-09 14:17:14,022 -root- INFO - this is a debug message
+2025-10-09 14:17:14,022 -root- WARNING - this is a debug message
+2025-10-09 14:17:14,022 -root- CRITICAL - this is a debug message
+2025-10-09 14:17:44,886 -root- DEBUG - this is a debug message
+2025-10-09 14:17:44,887 -root- ERROR - this is a debug message
+2025-10-09 14:17:44,887 -root- INFO - this is a debug message
+2025-10-09 14:17:44,887 -root- WARNING - this is a debug message
+2025-10-09 14:17:44,887 -root- CRITICAL - this is a debug message
+2025-10-09 21:01:09,037 -module1- DEBUG - this is a debug message from module 1
+2025-10-09 21:01:09,037 -module1- ERROR - this is an error message from module 1
+2025-10-09 21:01:09,037 -module1- INFO - this is an info message from module 1
+2025-10-09 21:01:09,039 -module1- WARNING - this is a warning message from module 1
+2025-10-09 21:01:09,039 -module1- CRITICAL - this is a critical message from module 1
+2025-10-09 21:01:09,039 -module2- ERROR - this is an error message from module 2
+2025-10-09 21:01:09,039 -module2- CRITICAL - this is a critical message from module 2
+2025-10-09 21:01:55,018 -module1- DEBUG - this is a debug message from module 1
+2025-10-09 21:01:55,018 -module1- ERROR - this is an error message from module 1
+2025-10-09 21:01:55,018 -module1- INFO - this is an info message from module 1
+2025-10-09 21:01:55,018 -module1- WARNING - this is a warning message from module 1
+2025-10-09 21:01:55,018 -module1- CRITICAL - this is a critical message from module 1
+2025-10-09 21:01:55,018 -module2- ERROR - this is an error message from module 2
+2025-10-09 21:01:55,018 -module2- CRITICAL - this is a critical message from module 2
