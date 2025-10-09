@@ -50,5 +50,8 @@ VALUES
 (110, 'Statistics', 'Mathematics', 3);
 
 
-
 select * from students;
+
+select * from courses;
+
+drop database schooldb
