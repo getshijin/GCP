@@ -1,0 +1,5 @@
+2025-10-15 19:58:02,345 -root- DEBUG - this is a debug message
+2025-10-15 19:58:02,346 -root- ERROR - this is a debug message
+2025-10-15 19:58:02,347 -root- INFO - this is a debug message
+2025-10-15 19:58:02,347 -root- WARNING - this is a debug message
+2025-10-15 19:58:02,347 -root- CRITICAL - this is a debug message
